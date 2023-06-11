@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- 테마 관련 속성 -->
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="CustomButtonStyle" parent="Widget.AppCompat.Button">
+        <!-- 버튼 스타일 관련 속성 -->
+    </style>
+
+    <!-- 추가적인 스타일 정의 -->
+    <!-- ... -->
+</resources>
